@@ -1,0 +1,20 @@
+body {
+  color: orange;
+  font-size: 28px;
+}
+
+h1 {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+
+#hello {
+  color: yellow;
+}
+
+.big{
+  color: pink;
+}
